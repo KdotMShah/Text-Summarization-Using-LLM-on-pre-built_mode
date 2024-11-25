@@ -6,7 +6,7 @@ XL-SUM Dataset: https://huggingface.co/datasets/csebuetnlp/xlsum
 CITATIONS:
 
 "Large-Scale Multilingual Abstractive Summarization for 44 Languages"
-  author = Hasan, Tahmid  and
+author = Hasan, Tahmid  and
       Bhattacharjee, Abhik  and
       Islam, Md. Saiful  and
       Mubasshir, Kazi  and
